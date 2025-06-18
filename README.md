@@ -70,7 +70,7 @@ Endkind ([@Endkind](https://github.com/Endkind))
 
 ## Technical Specification
 
-For implementation and specification details, see [STANDARD.md](./docs/standard.md).
+For implementation and specification details, see [docs/standard.md](./docs/standard.md).
 
 - Bit packing
 - Character set origin
